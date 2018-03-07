@@ -6,7 +6,7 @@ var poolHost = "http://strat.qrlmining.com";
 
 var irc = "irc.freenode.net/#monero-pools";
 
-var email = "fr1t2@qrlmining.com";
+var email = "qrlmining@qrlmining.com";
 
 var cryptonatorWidget = ["XMR-BTC", "XMR-USD", "XMR-EUR", "XMR-GBP"];
 
